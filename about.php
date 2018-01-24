@@ -139,6 +139,18 @@
         color: gray;
 }
     
+    
+/*
+    Bout
+    
+*/
+    
+    .main-img img{
+        border-radius: 1000px;
+        max-height: 100%;
+        width: 500px;
+    }
+    
 </style>	
 	
 	
@@ -172,12 +184,14 @@
     
     <div class="container-fluid info-body">
         <div class="container info-body-wrapper">
-            <div class="col-md-6 col-sm-12 col-xs-12 resume-wrapper">
+            <div class="col-md-12 col-sm-12 col-xs-12 resume-wrapper">
                 <a href="#"><p>Resume</p></a>
             </div>
     
-            <div class="col-md-6 col-sm-12 col-xs-12 about-wrapper">
-                <a href="#"><p>About Riley</p></a>
+            <div class="col-md-12 col-sm-12 col-xs-12 about-wrapper">
+                <p>I'm Riley, a Web Designer based in Salt Lake. My hobbies have always included artistic pursuits. I remember drawing dinosaurs on my 3rd grade worksheets. As I have grown older i've gravitated towards graphic and web design. Im proficient in Illustrator, Photoshop and InDesign, but my focus has shifted towards the web. I have a bachelors degree in Web Design from BYU. My work on the Rizepoint site afforded us the MarCom Gold award for website redesign.
+                I love video games, reading and videography.
+                </p>
             </div>
         </div><!--info-body-wrapper-->
     </div><!--info-body-->

@@ -4,6 +4,18 @@
         <div class="col-md-12 col-sm-12 col-xs-12 port-title">
                 <h1>Rizepoint Case Study</h1>
             </div><!--port-title-->
+		
+		<div class="portfolio-links wrapper">
+			<ul>
+				<div class="col-md-6 col-sm-12 col-xs-12 demo">
+					<a href="#"><li>Site Demo</li></a>
+				</div>	
+
+				<div class="col-md-6 col-sm-12 col-xs-12 demo">
+					<a href="#"><li>Styleguide</li></a>
+				</div>
+			</ul>
+		</div>
         
         <div class="container main-body-wrapper">
                 <h1>Summary</h1>

@@ -149,6 +149,27 @@
         font-family: montserrat;
 }
     
+.portfolio-links {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+		text-align: center;
+    }
+
+.portfolio-links ul, li{
+		color: gray;
+		list-style: none;
+		text-decoration: none;
+		display: inline-flex;
+        padding: 0px 70px 35px;
+		font-size: 2rem;
+		
+	}
+
+.portfolio-links ul li:hover{
+        color: lightcoral; 
+    }
+
     .cont-col1{
         padding-bottom: 100px;
         width: 100%;

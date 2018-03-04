@@ -16,9 +16,9 @@
         
 
             <div class="col-md-6 col-sm-12 col-xs-12 mb-content">
-                <a href="#"><img src="http://d1marr3m5x4iac.cloudfront.net/images/edpborder500/I0-001/001/019/757-1.jpeg_/ice-cube-57.jpeg"></a>
+                <a href="ui.php"><img src="img/ui1.png"></a>
             <div class="mbw-title">
-                <a href="#"><h4>Rizepoint.com</h4></a>
+                <a href="ui.php"><h4>UI Design</h4></a>
             </div><!--mbw-title-->
                 </div><!--mb-content-->
 
@@ -27,15 +27,18 @@
     
     
     <div class="container-fluid info-body">
-        <div class="container info-body-wrapper">
-            <div class="col-md-6 col-sm-12 col-xs-12 resume-wrapper">
-                <a href="#"><p>Resume</p></a>
-            </div>
-    
-            <div class="col-md-6 col-sm-12 col-xs-12 about-wrapper">
-                <a href="about.php"><p>About Riley</p></a>
-            </div>
-        </div><!--info-body-wrapper-->
+		
+		<div  class="container mn-wrapper">
+			<ul>
+				<div class="col-md-6 col-sm-12 col-xs-12 resume-wrapper">
+				<a href="#"><li>Resume</li></a>
+				</div>
+				
+				<div class="col-md-6 col-sm-12 col-xs-12 resume-wrapper">
+                <a href="#"><li>About</li></a>
+				</div>
+			</ul>
+		</div><!--mn-wrapper-->
     </div><!--info-body-->
 
 <?php include("includes/footer.php");?>

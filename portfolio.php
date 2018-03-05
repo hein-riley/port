@@ -21,7 +21,17 @@
                 <h1>Summary</h1>
 
             <section class="section1">
-                <div class="col-md-12 col-sm-12 col-xs-12 cont-col1">
+				<div class="section1-wrapper">
+					<div class="col-md-4 col-sm-12 col-xs-12 cont-col1">
+						<div class="cont">
+							<div class="col-md-6 col-sm-12 col-xs-12 mb-content2">
+								<img src="img/marcom.png">
+									<p>Marcom Gold Award 2017: Web Site Redesign</p>
+							</div><!--cont-col2-->
+						</div><!--cont--> 
+					</div>
+				
+                <div class="col-md-8 col-sm-12 col-xs-12 cont-col1">
                        <h2>Scenario:</h2>
                     <p>
                         In January 2017 I was brought onto the Rizepoint marketing team to help with a total site redesign and build.
@@ -34,22 +44,27 @@
  
                     </p>
                 </div><!--cont-col1-->
+				</div><!--section1 wrapper-->
+			
                 
                 <h2>Outcome:</h2>
             <div class="mb-wrapper">
-                <div class="col-md-3 col-sm-6 col-xs-12 stats">
-                    <p>User bounce rate decreased by 22% over 2016</p>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 stats">
-                    <p>Organic search traffic increased 35% in 2017</p> 
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 stats">
-                    <p>Page views increased 24% year over year</p>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 stats">
-                    <p>19% of top sales driven by website leads in 2017</p>
-                </div>
+					<div class="col-md-3 col-sm-6 col-xs-12 stats">
+						<p>User bounce rate decreased by 22% over 2016</p>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12 stats">
+						<p>Organic search traffic increased 35% in 2017</p> 
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12 stats">
+						<p>Page views increased 24% year over year</p>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12 stats">
+						<p>19% of top sales driven by website leads in 2017</p>
+					</div>
+					
             </div><!--mb-wrapper-->
+				
+
 
                 <div class="col-md-6 col-sm-12 col-xs-12 cont-col1">
                     

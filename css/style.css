@@ -11,7 +11,7 @@
     }
     
     .mt-wrapper{
-        padding: 40px;
+        padding: 30px;
     }
     
     .mt-wrapper a{
@@ -52,7 +52,7 @@
 	.mn-wrapper ul, li{
 		list-style: none;
 		display: inline-flex;
-        padding: 0px 70px 35px;
+        padding: 0px 70px 5px;
 	}
 	
 	.mt-wrapper h1{
